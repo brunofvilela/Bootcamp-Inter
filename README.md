@@ -8,6 +8,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Bootstrap]
 <p>
 - Metodologia ágil: SCRUM
+<p>
 - Git e GitHub
 
 ## 🔖 Bootcamp realizado na plataforma [Digital Innovation One](https://digitalinnovation.one/)
