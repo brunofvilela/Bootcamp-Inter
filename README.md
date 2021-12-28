@@ -6,9 +6,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS]
 - [JavaScript]
 - [Bootstrap]
-
-- [Metodologia ágil: SCRUM]
-- [Git e GitHub]
+<p>
+- Metodologia ágil: SCRUM
+- Git e GitHub
 
 ## 🔖 Bootcamp realizado na plataforma [Digital Innovation One](https://digitalinnovation.one/)
 
