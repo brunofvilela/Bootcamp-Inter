@@ -6,6 +6,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS]
 - [JavaScript]
 - [Bootstrap]
+- [SQL-Server]
+- [ReactJS]
 <p>
 - Metodologia ágil: SCRUM
 <p>
