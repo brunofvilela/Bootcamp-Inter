@@ -1,6 +1,6 @@
 ## 🧪 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Neste projeto foi utilizado as seguintes tecnologias:
 
 - [HTML]
 - [CSS]
