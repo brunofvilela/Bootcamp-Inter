@@ -8,6 +8,8 @@ Neste projeto foi utilizado as seguintes tecnologias:
 - [Bootstrap]
 - [SQL-Server]
 - [ReactJS]
+- [NodeJS]
+- [JWT]
 <p>
 - Metodologia ágil: SCRUM
 <p>
