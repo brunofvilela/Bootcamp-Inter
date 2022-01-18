@@ -7,6 +7,7 @@ Neste projeto foi utilizado as seguintes tecnologias:
 - [JavaScript]
 - [Bootstrap]
 - [SQL-Server]
+- [PostgreSQL]
 - [ReactJS]
 - [NodeJS]
 - [JWT]
